@@ -6,7 +6,7 @@
     android:divider="?android:attr/dividerHorizontal"
     android:orientation="horizontal"
     android:showDividers="middle"
-    tools:context="com.domain.stats.view.StatsActivity">
+    tools:context="com.domain.menulog.view.RestaurantActivity">
 
     <FrameLayout
         android:id="@+id/stats_list_container"

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Player STATS</string>
+    <string name="app_name">Restaurant Results</string>
     <string name="could_not_load_stats_data">Could not load Stats data</string>
     <string name="short_name">short name</string>
     <string name="stat_value">stat value</string>
