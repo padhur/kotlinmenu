@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Player STATS</string>
+    <string name="could_not_load_stats_data">Could not load Stats data</string>
+    <string name="short_name">short name</string>
+    <string name="stat_value">stat value</string>
+    <string name="position">position</string>
+    <string name="jumper_numer">jumper number</string>
+    <string name="top_player">Top Player</string>
+</resources>
